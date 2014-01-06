@@ -1,0 +1,18 @@
+".container": {
+	backgroundColor:"white",
+	layout: "vertical"
+},
+
+".label_lobster": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000",
+	font: {fontSize: 24, fontFamily: "Lobster 1.3"}
+},
+
+".label_helvetica": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000",
+	font: {fontSize: 24, fontFamily: "Helvetica 25 Ultra Light"}
+}
